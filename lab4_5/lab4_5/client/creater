@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python3 ../installer/generateKey.py
+python3 ../client/setup.py build

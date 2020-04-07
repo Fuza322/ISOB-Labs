@@ -1,0 +1,11 @@
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\bin\Debug\netcoreapp3.0\z1.exe
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\bin\Debug\netcoreapp3.0\z1.deps.json
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\bin\Debug\netcoreapp3.0\z1.runtimeconfig.json
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\bin\Debug\netcoreapp3.0\z1.runtimeconfig.dev.json
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\bin\Debug\netcoreapp3.0\z1.dll
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\bin\Debug\netcoreapp3.0\z1.pdb
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\obj\Debug\netcoreapp3.0\z1.csprojAssemblyReference.cache
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\obj\Debug\netcoreapp3.0\z1.AssemblyInfoInputs.cache
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\obj\Debug\netcoreapp3.0\z1.AssemblyInfo.cs
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\obj\Debug\netcoreapp3.0\z1.dll
+D:\Education\Laboratory_works\ИСОБ\lab1\z1\obj\Debug\netcoreapp3.0\z1.pdb

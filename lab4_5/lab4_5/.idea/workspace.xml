@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9968b80c-e38d-4733-9eb1-98d556293cd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1ZLqYEfLE55choRcbhfD7zwJ70l" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Study" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9968b80c-e38d-4733-9eb1-98d556293cd8" name="Default Changelist" comment="" />
+      <created>1584628768023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584628768023</updated>
+      <workItem from="1584628770951" duration="1528000" />
+      <workItem from="1584974494992" duration="2701000" />
+    </task>
+    <task id="LOCAL-00001" summary="small fixes">
+      <created>1584976706129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584976706129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="small fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="small fixes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="357" width="620" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584629688312">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="678" y="357" width="620" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053/283.1080.1366.768@67.27.1853.1053" timestamp="1584629688312" />
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1584976705760">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053/283.1080.1366.768@67.27.1853.1053" timestamp="1584976705760" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1584976682314">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053/283.1080.1366.768@67.27.1853.1053" timestamp="1584976682314" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584983454620">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/283.1080.1366.768@67.27.1853.1053" timestamp="1584983454620" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584976708009">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/283.1080.1366.768@67.27.1853.1053" timestamp="1584976708009" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584974624482">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/283.1080.1366.768@67.27.1853.1053" timestamp="1584974624482" />
+    <state x="761" y="472" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584974628591">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="761" y="472" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053/283.1080.1366.768@67.27.1853.1053" timestamp="1584974628591" />
+  </component>
+</project>
